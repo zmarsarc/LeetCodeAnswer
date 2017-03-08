@@ -3,7 +3,7 @@
 */
 
 /*
-    AC / top 46.30% in cpp
+    AC / 2080 samples in 62ms / top 46.30% in cpp
 */
 
 #include <algorithm>
